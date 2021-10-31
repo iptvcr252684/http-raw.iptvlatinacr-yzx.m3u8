@@ -581,7 +581,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT9
 #EXTINF:-1 tvg-logo="https://iptv-online.org/wp-content/uploads/2020/06/IPTV-USA.png",IPTV USA
 http://www.lengua.com/anthems/USA.mp3 
 #EXTINF:-1 tvg-logo="https://tribunapr.uol.com.br/wp-content/uploads/sites/56/2021/02/19092811/star-channel-1024x683.png",STAR CHANNEL.HD
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/4997
+http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=starch&k=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://tribunapr.uol.com.br/wp-content/uploads/sites/56/2021/02/19092811/star-channel-1024x683.png",STAR CHANNEL.HD
 http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/6481
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-uUXjj4UiSsU/YKvGSwESG-I/AAAAAAAAcek/OVW6LZgfmBUAXUHbY_6v1O65Q_L12DBrwCPcBGAsYHg/s71/star-life.PNG",STAR LIFE HD
@@ -597,10 +597,12 @@ http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=fx&k=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX FULL.HD
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/4998
 #EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg",CINECANAL HD
-http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/209879
+http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=cinecanal&k=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg",CINECANAL HD
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/4967
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Pr0gAr66H3U/YBNnpQ7o3sI/AAAAAAAAawc/KcN-enfqbBs4JQINDw5ydE73FXk36qLaACPcBGAsYHg/s71/amc.PNG", AMC FULL.HD
+http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=amc&k=SrRegio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Pr0gAr66H3U/YBNnpQ7o3sI/AAAAAAAAawc/KcN-enfqbBs4JQINDw5ydE73FXk36qLaACPcBGAsYHg/s71/amc.PNG", AMC HD
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/4950
 #EXTINF:-1 tvg-logo="https://www.dvbviewer.tv/forum/uploads/monthly_01_2017/post-1-0-60020400-1483431398.png",A&E HD 
 http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=ae&k=SrRegio&f=.m3u8
@@ -625,6 +627,8 @@ http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=tntseries&k=SrRegio&f=.
 #EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/tnt-series.png",TNT SERIES HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/86599
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--4OjePyrro8/YBNnpTBCgtI/AAAAAAAAawc/kieWSNaRXY01ZaSssX48siMgpIxn26UwwCPcBGAsYHg/s71/space.PNG",SPACE FUL-HD
+http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=&k=SrRegio&f=.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--4OjePyrro8/YBNnpTBCgtI/AAAAAAAAawc/kieWSNaRXY01ZaSssX48siMgpIxn26UwwCPcBGAsYHg/s71/space.PNG",SPACE HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/86551
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/X1s9yE33uh0BIQdH3f05lI4-pwYi96VmU215Vj6IdamhY-nBiiSeURD8s_UEVax4O2qH4T2lua72fLV36JA=w70-h71",UNIVERSAL CHANNEL FUL.HD
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/5028
