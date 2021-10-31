@@ -1695,8 +1695,7 @@ https://video-weaver.jfk06.hls.ttvnw.net/v1/playlist/CsEFFegutUrM6fgJQ0Qck43yXK2
 
 
 #EXTINF:-1 tvg-logo="http://fomny.com/Video-2/USA/05/Freefrom/logo.gif",FF FREEFORM.tv 
-https://h4.ustvgo.la/Freeform/myStream/chunks.m3u8?nimblesessionid=88718253&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTcvMjAyMSAzOjIxOjIwIEFNJmhhc2hfdmFsdWU9S1N3MUtCT0dObkhwUGxZaEo4dExSQT09JnZhbGlkbWludXRlcz0yNDA=
-#EXTINF:-1 tvg-logo="http://fomny.com/Video-2/USA/05/Freefrom/logo.gif
+https://h1.ustvgo.la/Freeform/myStream/chunks.m3u8?nimblesessionid=132458832&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzEvMjAyMSA2OjE2OjE2IEFNJmhhc2hfdmFsdWU9UFFYZ0dKbzlwMS8xaDdsbDZXdjVqZz09JnZhbGlkbWludXRlcz0yNDA
 #EXTINF:-1 tvg-logo="https://hd-report.com/wp-content/uploads/2018/08/freeform-logo-on-blk-600x188.png",FF FREEFORM.tv 
 https://bozztv.com/teleyupp/IxagghMvR8/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d3de398e682d6958762def3914cb211c8f062e8b24df9a2d95d5bfc0aa4b80c0.png", TV CLASSICS
