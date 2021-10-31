@@ -2,7 +2,7 @@
 #http-raw.iptvlatinacr-yzx.m3u8
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/15/3/14/6963405.jpg",IPTV LATINA CR CHANNEL
 https://green-dns4.com/video_visit/CostaRica_Anthem_FINAL%20(450x253).mp4 www.iptvlatinacr.club.channel.andraid.m3u
-#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",30.10.2021
+#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",31.10.2021
 http://oklivetv.com/xplay/error/offline.mp4 
 #EXTINF:0 tvg-logo="https://listasparawiseplay.com/wp-content/uploads/2149-m3u-image.jpg",LISTA M3U
 https://www.youtube.com/watch?v=Bob84Q6NZJ8
@@ -171,7 +171,7 @@ https://cp.sradiotv.com:1936/8034/8034/chunklist_w1821439103.m3u8?fbclid=IwAR2Jd
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/vzjUw2VgjK6nXH9yzC6xbVtw5V3p2llPDV4de96rfTiXLE3ygSAxsAPn6USH_YqQ4YFH4g=s116",CR-TV RADIO LIVE 2
 https://cp.sradiotv.com:1936/8126/8126/chunklist_w703271480.m3u8
 #EXTINF:-1 tvg-logo="http://cablepacayas.com/wp-content/uploads/2016/10/logo-xpertv33.png", XPERTV
-https://stream-04.nyc.dailymotion.com/sec(SyZYkGipT6ryQqDrbZs7Jdz60arVOT0WhjRHO95zm-k)/dm/3/x2hfbst/s/live-3.m3u8
+https://stream-01.nyc.dailymotion.com/sec(SyZYkGipT6ryQqDrbZs7JdYsNxL6MifFXqk4J8bGlrM)/dm/3/x2hfbst/s/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://www.sensaciondeportiva.com/wp-content/uploads/2020/01/FUTV.jpg",FUTV HD
 http://zonatv.info:45862/USUARIOCOL40/RxR2x6WrFd/1529
 #EXTINF:-1 tvg-logo="https://www.sensaciondeportiva.com/wp-content/uploads/2020/01/FUTV.jpg",FUTV SD.CR
@@ -289,7 +289,7 @@ http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/u7AZ_zoeri2BgOaGK6d-VhMb7fsOc-a7yRqooAv8_WEdj-jZpp2A3iw-7rJWB2R1aw=s180",~ Honduras TV
 http://www.lengua.com/anthems/Honduras.mp3 
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnUxKmN84LyQun25JjSvzcqwFw3gcO8c3xRuKRlYeVJkUubVkLzo3Dei84vXF0qAMMFJw&usqp=CAU",VTV
-
+https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM1NzQ0MjM1LCJzZXNzaW9uIjoiMjAxLjIwMS4yMTUuNzYiLCJ3aGl0ZWxpc3QiOlsiMjAxLjIwMS4yMTUuNzYiXX0sInNpZ25hdHVyZSI6IjczYjQ5Y2UxYWIyMjM3MGJlNGFiOGY0MTliMGFjZWQ3MDI4MDA1YjAifQ
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHhijPKZhPAeOpV0plYczgzsl-QB1v4T3wfhFlAsRrJvE2lj81r4KjNviOw5NiNNDYuAw&usqp=CAU",LTV.HD
 https://5e85d90130e77.streamlock.net/6022/6022/chunklist_w113526813.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="HONDURAS", TEN 10 hD
