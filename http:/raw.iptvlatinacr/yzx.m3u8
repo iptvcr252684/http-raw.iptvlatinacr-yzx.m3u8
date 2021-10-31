@@ -25,7 +25,7 @@ https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1776239726.m3
 
 
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_6.png",CANAL 6 HD
-https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b348000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM1NzA3OTQ4LCJzZXNzaW9uIjoiMjAxLjE5MS4xOTUuMjIyIiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMTk1LjIyMiJdfSwic2lnbmF0dXJlIjoiNDQwOTg5ZjdmNjM3NGE4ODRhNThkNjQ4ZGY0ODgyOTkyMGFkY2Y3ZSJ9
+https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b348000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM1NzI4NTczLCJzZXNzaW9uIjoiMjAxLjIwMS4yMTUuNzYiLCJ3aGl0ZWxpc3QiOlsiMjAxLjIwMS4yMTUuNzYiXX0sInNpZ25hdHVyZSI6ImYwODk2M2NmMWQ2ZGJlN2JmYzBjMDE5ZjRmZTFhNGYzYWEyODM2OTkifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_6.png",CANAL 6 
 http://201.220.141.118:8000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_4.png",CANAL 4 HD
@@ -289,7 +289,7 @@ http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/u7AZ_zoeri2BgOaGK6d-VhMb7fsOc-a7yRqooAv8_WEdj-jZpp2A3iw-7rJWB2R1aw=s180",~ Honduras TV
 http://www.lengua.com/anthems/Honduras.mp3 
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnUxKmN84LyQun25JjSvzcqwFw3gcO8c3xRuKRlYeVJkUubVkLzo3Dei84vXF0qAMMFJw&usqp=CAU",VTV
-https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM1NTY3NTEzLCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuMTQxIiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMjU0LjE0MSJdfSwic2lnbmF0dXJlIjoiYjE0YmM4ZGJiMWE4ODliM2I2OTMzYzA0MzczODA4MTAxNjhjYTgyMSJ9
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHhijPKZhPAeOpV0plYczgzsl-QB1v4T3wfhFlAsRrJvE2lj81r4KjNviOw5NiNNDYuAw&usqp=CAU",LTV.HD
 https://5e85d90130e77.streamlock.net/6022/6022/chunklist_w113526813.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="HONDURAS", TEN 10 hD
