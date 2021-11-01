@@ -1472,8 +1472,6 @@ http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1267875708044533765/j2ITZD9N.jpg",UNO HD
 http://media.profesionalhosting.com:1935/8441/8441/chunklist_w692838936.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHKo-TVFoeE7qMEslQx5Y4ozMfu7Akyl7xSglQ7z5eusBg5QJOAYoJqKXqhGauiJ5PAWk&usqp=CAU",Mix Hollywood
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/39610
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png",CINEMA ACCION 
 http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/186311
 #EXTINF:-1 tvg-logo="https://upload.az/foto/arxiv/908945_11547707918.jpg",XEZER TV
@@ -1681,7 +1679,7 @@ https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CrIFktdaVNFyy-bZEKNO1qS47Ig
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/92a32429-0dad-49ce-98ca-bd85aa8aafbc-profile_image-70x70.png",TERROR MARIA 
 https://live.fc2.com/9909237/?afid=9909237
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/d2d645e9-a373-49e7-99a6-4b6fa08013d1-profile_image-300x300.png",KATY HD 
-https://hls.live.fc2.com/hls/58854808/20/playlist?session_token=e756057655dbb9d5db6baa3835a36ca6127b68f9808ef8e172bc0f43daef5176&playlist_token=b3e53d53111720ef188b1554977d6941f8d57024b2cacb8cf88fae39843b72bb
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ue2zJ1Q.png",CAANALES ZONAFILMS TV
@@ -1700,7 +1698,7 @@ https://h1.ustvgo.la/Freeform/myStream/chunks.m3u8?nimblesessionid=132458832&wms
 https://bozztv.com/teleyupp/IxagghMvR8/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d3de398e682d6958762def3914cb211c8f062e8b24df9a2d95d5bfc0aa4b80c0.png", TV CLASSICS
 https://vitor-tvclassics-1.plex.wurl.com/manifest/4300.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.woopic.com/v1/AUTH_9ffb653181284b0abe5e45d7014095b2/boutique-tv/gulli_girl_1440@1x_5e8f5ecfd4acc050b004a394.png",Gulli GIRL
+#EXTINF:-1 tvg-logo="https://only-hd.com/img/tv/346.jpg",Gulli GIRL FULL.HD
 http://194.190.78.91:8080/Gulli_OT/video.m3u8
 
 
@@ -1770,14 +1768,16 @@ http://node-07.zeno.fm/41p4wfy92mruv?rj-ttl=5&rj-tok=AAABb_OjdSoAhnyPPAJwfq9-Ig
 http://servicompcr.net:9998/stream
 #EXTINF:-1 tvg-logo="https://radiocostarica.org/sites/default/files/styles/116_x_116/public/radio/logos/logo-radio-fides.png?itok=quZWS2wi",RADIO FIDES
 http://68.235.56.131:8023/;*.mp3
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/j94QH0zI3sGkGFrNCZWE-IjPIY9blN_rtP0wMy64A5P2a3WNwILiBPqXVMT3GaOV4ZLp=s85",RADIO RINCON CATOLICA FM 
+#EXTINF:-1 tvg-logo="https://ws.shoutcast.com/images/contacts/9/92a9/92a958a8-e3d0-4bcb-b413-4fa01cc82316/radios/a013456b-04d3-4b76-a9a4-13069efa789f/a013456b-04d3-4b76-a9a4-13069efa789f.png",RADIO RINCON CATOLICA FM 
 http://201.199.89.173:8001/
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/j94QH0zI3sGkGFrNCZWE-IjPIY9blN_rtP0wMy64A5P2a3WNwILiBPqXVMT3GaOV4ZLp=s85",RADIO RINCON CATOLICA FM 
+#EXTINF:-1 tvg-logo="https://ws.shoutcast.com/images/contacts/9/92a9/92a958a8-e3d0-4bcb-b413-4fa01cc82316/radios/a013456b-04d3-4b76-a9a4-13069efa789f/a013456b-04d3-4b76-a9a4-13069efa789f.png",RADIO RINCON CATOLICA FM 
 http://201.199.89.173:8001/index .hemlock?sid=1
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/85d0fd3f9dab2acb467c4aca607c9764.png",Radio Extrema
-https://embed.unored.tv/stream/index.php?s=unoredradio.com&p=9948&m=;stream
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSETrLG-vi98o5tPu-ABjNPsabclrfnbBHCLTBpj796Ns-iNrAG",RADIO SANTA CLARA CR
+http://radios.rarserver.net:8162/live
 #EXTINF:-1 tvg-logo="http://static-1.ivoox.com/radios/5/3/9/3/6631432913935_XXL.jpg",Radio María 100.7 FM
 http://dreamsiteradiocp2.com:8044/;stream/1
+#EXTINF:-1 tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple60/v4/9c/74/1a/9c741af3-5f36-602d-2561-78e549ddcc27/pr_source.png/1200x630wa.png",Radio Extrema
+https://embed.unored.tv/stream/index.php?s=unoredradio.com&p=9948&m=;stream
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/radios-co-cr/addiction-cr.png",Radio Online Addiction CR
 http://144.217.203.184:9456/;
 #EXTINF:-1 tvg-logo="https://radiocostarica.org/sites/default/files/styles/116_x_116/public/radio/logos/logo-radio-musical.png?itok=Gz9ynpL_",MUSICAL
@@ -1788,8 +1788,6 @@ https://14933.live.streamtheworld.com/BESAME_CR_SC
 http://streams.y2kwebs.com:9986/stream/1/
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/8/27638.v9.png",LOS 40 1043
 https://14933.live.streamtheworld.com/LOS40_CRAAC.aac
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSETrLG-vi98o5tPu-ABjNPsabclrfnbBHCLTBpj796Ns-iNrAG",RADIO SANTA CLARA CR
-http://radios.rarserver.net:8162/live
 #EXTINF:-1 tvg-logo="https://cdn.raddio.net/storage/photos/4100/as455c25469165a96077796908.png",YEAH 107.5 FM
 http://k2.usastreams.com/yeah1075
 #EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/fdcb45990b7de4136decf70810fe15d2.jpg",ZETA 95.1 FM CR
@@ -1826,7 +1824,7 @@ http://live3.rcnmundo.com/lafm.mp3
 http://78.47.96.202:8111/live
 #EXTINF:-1 tvg-logo="http://floradio.co.uk/wp-content/uploads/2017/09/floradio-feeltheflo.jpg",FLOW RADIO.FM
 http://radiohd.streaminghd.co:7014/live
-#EXTINF:-1 tvg-logo="https://scontent-sea1-1.cdninstagram.com/vp/49258ab05590ace934b962527e1c70df/5BE2EF0E/t51.2885-15/e35/s480x480/31338773_1635676333152784_1389719793417846784_n.jpg",ON El Zol 106.7 (WXDJ-FM)
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/rWrFZ6MMLT.png",ON El Zol 106.7 (WXDJ-FM)
 https://prod-54-86-154-111.wostreaming.net/sbsystems-wxdjfmaac-hlsc1.m3u8/?z=ef222bdc910f4616afe384dba87cf717&p=1
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-_HQi7LIvJwc/UkVnyFYDCcI/AAAAAAAAAmM/KNcYIA1_GGw/s1600/LogoCOKE+FM.jpg",RADIO COCACOLA CR
 https://ic.imusicaradios.com.br/colombia.stream.http?url=www_-_coca-cola_-_com_-_co&last_con=0&user_os=Windows&user_browser=Chrome&ip=190_-_98_-_187_-_2
@@ -1834,7 +1832,7 @@ https://ic.imusicaradios.com.br/colombia.stream.http?url=www_-_coca-cola_-_com_-
 http://166.88.21.98:9948/;
 #EXTINF:-1 tvg-logo="https://secureimg.stitcher.com/feedimageswide/480x270_144118.jpg",TELETICA RADIO
 http://streamingv2.shoutcast.com/teleticaradio
-#EXTINF:-1 tvg-logo="http://www.lamejor.co.cr/app/themes/base-radios/img/branding/lamejor/logo.png",LA MEJOR CR 99.1 FM
+#EXTINF:-1 tvg-logo="https://si.cultura.cr/sites/default/files/styles/full_ficha_evento_gallery_525xfree/public/lamejor.jpg?itok=LiUnuFOy",LA MEJOR CR 99.1 FM
 http://radios-cr.cdn.nedmedia.io/radios/lamejor.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-radiotime-logos.tunein.com/s249812d.png",Q TEJA 90.7 FM
 http://162.144.149.103:9302/;?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYyODgyMjc2NCwiaXNzIjoidGlzcnYifQ.W38YBxG3H_3jIXd4E0x3WWA_eT4cMnQfDsSL1MSnB7I
@@ -1842,7 +1840,7 @@ http://162.144.149.103:9302/;?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_priv
 http://19373.live.streamtheworld.com/FM947_SC?ua=RadioTime&t
 #EXTINF:-1 tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2014/08/Alfa-91.3.jpg",Alfa 91.3
 http:1//18493.live.streamtheworld.com/XHFAJ_FM_SC
-#EXTINF:-1 tvg-logo="https://media.domiplay.com/covers/radio-juvenil-28.gif",Juvenil Radio
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1088167414/radiojuvenilnet_400x400.jpg",Juvenil Radio
 http://192.227.107.159:5219/stream
 #EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/mnrl9acdmhpt.png",181.fm  80's Hairband
 http://relay.181.fm:8128/
@@ -1902,12 +1900,12 @@ http://hitmusic.hu/hitmusic.m3u8
 http://streamingcws20.com:1935/examor/videoexamor/.m3u8
 #EXTINF:-1 tvg-logo="https://eltorotv.com/wp-content/uploads/2019/12/El-Toro-TV-Logo-1200.jpg",EL TORO
 https://live-edge-bhs-1.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/live-300/index.m3u8
-#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4E22AQHiP974cukvnQ/feedshare-shrink_800/0/1627755809378?e=1630540800&v=beta&t=42pzCgdyGPdBwDbc3ROu0x-5OkeXxRh9bLb-mIdhbtc", HIT Music HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQX58YUn3_pCtgEnAba0RTZsTBe998HnQNe9Dw8qLT8NEjWkNlFh6R4yCSxqvTk2-3mfY&usqp=CAU", HIT Music HD
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/MTV_Classic_2011.png/245px-MTV_Classic_2011.png",USA MTV CLASSICS HD
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQX58YUn3_pCtgEnAba0RTZsTBe998HnQNe9Dw8qLT8NEjWkNlFh6R4yCSxqvTk2-3mfY&usqp=CAU", HIT Music HD
+http://hitmusic.hu/hitmusic.m3u8
 #EXTINF:-1 tvg-logo="https://blog.roku.com/wp-content/uploads/2016/04/VH1-logo.png",VH1 HD
-http://my.streamerstv.com:25461/maria/maria/506
+https://content-ausw1-up-1.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf/f.m3u8?pbs=a4807350e0b04afcbfcd67a5c821dcb2
 #EXTINF:-1 tvg-logo="https://blog.roku.com/wp-content/uploads/2016/04/VH1-logo.png",VH1 HD
 http://92.119.251.239/udp_vh1_sd/video.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/gt_vh1-classic-usa_m.png",VH1 CLASS HD
