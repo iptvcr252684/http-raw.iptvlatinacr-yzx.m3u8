@@ -29,9 +29,9 @@ https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunkli
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_6.png",CANAL 6 
 http://201.220.141.118:8000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_4.png",CANAL 4 HD
-
+https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM1ODgxNjA5LCJzZXNzaW9uIjoiMjAxLjIwMS4yMTUuNzMiLCJ3aGl0ZWxpc3QiOlsiMjAxLjIwMS4yMTUuNzMiXX0sInNpZ25hdHVyZSI6IjljNWZmODA1ZjBkZGEwNmE1NWUzMzBlODI1MGJmNDg3NTliNDZmMDYifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11.png",CANAL 11 HD
-https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM1NzA4MDQ2LCJzZXNzaW9uIjoiMjAxLjE5MS4xOTUuMjIyIiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMTk1LjIyMiJdfSwic2lnbmF0dXJlIjoiNjdhODY0ZTc3M2JkMTg2ZWU3OWIyY2YxYzQxNGIyY2FjMTM3Njk1NyJ9
+https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM1ODgxNTI4LCJzZXNzaW9uIjoiMjAxLjIwMS4yMTUuNzMiLCJ3aGl0ZWxpc3QiOlsiMjAxLjIwMS4yMTUuNzMiXX0sInNpZ25hdHVyZSI6IjMwYWM2OTJiYmQyZTJiYzc3MjQxN2VmMjQzMjZlMGNmM2Q5MTY4NjAifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://static3.teletica.com//Files/Sizes/2017/10/13/logo-teletica-640132500_380x260.jpg",CANAL 7 HD
 https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO54L0oIFmzzgQpzV4tLWQ8qw)/dm/3/x29e3wg/s/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EUfEK1JXsAERQ_3.jpg",CANAL 7 HD 
@@ -287,7 +287,7 @@ http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/u7AZ_zoeri2BgOaGK6d-VhMb7fsOc-a7yRqooAv8_WEdj-jZpp2A3iw-7rJWB2R1aw=s180",~ Honduras TV
 http://www.lengua.com/anthems/Honduras.mp3 
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnUxKmN84LyQun25JjSvzcqwFw3gcO8c3xRuKRlYeVJkUubVkLzo3Dei84vXF0qAMMFJw&usqp=CAU",VTV
-https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM1NzQ1ODg0LCJzZXNzaW9uIjoiMjAxLjIwMS4yMTUuNzYiLCJ3aGl0ZWxpc3QiOlsiMjAxLjIwMS4yMTUuNzYiXX0sInNpZ25hdHVyZSI6IjMzYTZkY2FkZGJmOGMwY2NlMWY1MTE1MDI5MGU3ODU0MTIxYjBkZjcifQ
+https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM1ODgxODk4LCJzZXNzaW9uIjoiMjAxLjIwMS4yMTUuNzMiLCJ3aGl0ZWxpc3QiOlsiMjAxLjIwMS4yMTUuNzMiXX0sInNpZ25hdHVyZSI6IjQ2MWEwZGQ3ZTQ5OGMxNTkwMmZkMDY0Y2VlNmZiMTEyYzMyYzg4ZDMifQ
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHhijPKZhPAeOpV0plYczgzsl-QB1v4T3wfhFlAsRrJvE2lj81r4KjNviOw5NiNNDYuAw&usqp=CAU",LTV.HD
 https://5e85d90130e77.streamlock.net/6022/6022/chunklist_w113526813.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="HONDURAS", TEN 10 hD
@@ -331,11 +331,11 @@ https://live.canalantigua.tv/CanalAntigua/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canalantigua.tv/wp-content/uploads/2020/12/cropped-cropped-544-x-180-logo-300x99-1.png", CANAL ANTIGUA
 https://5ef74a4cbddfc.streamlock.net/CanalAntigua/myStream/chunklist_w152479200.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/3_de_guatemala_el_super_canal-mediano.png", SUPER CANAL 3 HD
-https://gt-chapintv-canal3-live.ned.media/chapintv/smil:canal3.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM1Mzg4NzM2LCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuMTgxIiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMjU0LjE4MSJdfSwic2lnbmF0dXJlIjoiZmMwYzNmMWQ4NmMwYmEyMDdhZTcwZmJhNGYzMmY0NGQ4NWUyNWJmNiJ9
+
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/3_de_guatemala_el_super_canal-mediano.png", SUPER CANAL 3 
 http://201.220.141.118:8000/play/a0ct/index.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-O8tIcZwzteM/XA_yqIWnLjI/AAAAAAAAAyA/PvbI53JhvoYc2jYoW8jfO1iGBVpP_F5zwCPcBGAYYCw/s200/Televisiete-guatemala.jpg",TELEVISIETE 7 HD
-
+https://gt-chapintv-canal7-live.ned.media/chapintv/smil:canal7.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM1ODgyMTU5LCJzZXNzaW9uIjoiMjAxLjIwMS4yMTUuNzMiLCJ3aGl0ZWxpc3QiOlsiMjAxLjIwMS4yMTUuNzMiXX0sInNpZ25hdHVyZSI6IjBlYzgzZjUzYjVlZDNmYzllM2UwNDhlODc2ZTQ0OTdiMTU3YjY0YmUifQ%3D%3D
 #EXTINF:-1 tvg-logo="http://heroesanini.brainingbrands.com/themes/anini/img/founders/canal11.png",CANAL ONCE 
 http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/10443
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmzUR7WIiOIsD7E3qS30sTr6-US2LBWcVD4A&usqp=CAU",TELE DOCE 12 HD
