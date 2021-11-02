@@ -521,11 +521,11 @@ http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/46644
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es",CANAL 5 
 http://balancer1.iptvmx.com:8081/tecno/Canal5.TecnoByte/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.historyplay.tv/images/footer/logo-lifetime.png?_v=1.5.99",LIFETIME FULL.HD
-
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/6732
 #EXTINF:-1 tvg-logo="https://www.historyplay.tv/images/footer/logo-lifetime.png?_v=1.5.99",LIFETIME HD
 http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/29352
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-I-xHH7bNjS0/YBNnpeyb8qI/AAAAAAAAawc/9P4F4hfMfB4oBJHQTVl0VMiXDlQtciH2gCPcBGAsYHg/s71/golden.PNG",GOLDEN FULL.HD
-http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/29328
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/6727
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-I-xHH7bNjS0/YBNnpeyb8qI/AAAAAAAAawc/9P4F4hfMfB4oBJHQTVl0VMiXDlQtciH2gCPcBGAsYHg/s71/golden.PNG",GOLDEN HD
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/5001
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zdgZWj5yiMk/YBNvjSlIzJI/AAAAAAAAaw0/K9hZONhu81QKcMlFd7zChAa-XLoCsu-NACPcBGAsYHg/s71/golden-plus.PNG",G PLUS FUL.HD
@@ -575,45 +575,47 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT9
 #EXTINF:-1 tvg-logo="https://iptv-online.org/wp-content/uploads/2020/06/IPTV-USA.png",IPTV USA
 http://www.lengua.com/anthems/USA.mp3 
 #EXTINF:-1 tvg-logo="https://tribunapr.uol.com.br/wp-content/uploads/sites/56/2021/02/19092811/star-channel-1024x683.png",STAR CHANNEL.HD
-
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90288
 #EXTINF:-1 tvg-logo="https://tribunapr.uol.com.br/wp-content/uploads/sites/56/2021/02/19092811/star-channel-1024x683.png",STAR CHANNEL.HD
 http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/6481
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-uUXjj4UiSsU/YKvGSwESG-I/AAAAAAAAcek/OVW6LZgfmBUAXUHbY_6v1O65Q_L12DBrwCPcBGAsYHg/s71/star-life.PNG",STAR LIFE HD
-
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90289
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-uUXjj4UiSsU/YKvGSwESG-I/AAAAAAAAcek/OVW6LZgfmBUAXUHbY_6v1O65Q_L12DBrwCPcBGAsYHg/s71/star-life.PNG",STAR LIFE HD
 http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/29312
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ", FXMOVIES FUL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ", FXMOVIES HD
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90273
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ", FXMOVIES 
 http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/6493
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX HD
-
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90274
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX FULL.HD
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/4998
 #EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg",CINECANAL HD
-
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90217
 #EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg",CINECANAL HD
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/4967
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90218
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Pr0gAr66H3U/YBNnpQ7o3sI/AAAAAAAAawc/KcN-enfqbBs4JQINDw5ydE73FXk36qLaACPcBGAsYHg/s71/amc.PNG", AMC FULL.HD
-
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90197
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Pr0gAr66H3U/YBNnpQ7o3sI/AAAAAAAAawc/KcN-enfqbBs4JQINDw5ydE73FXk36qLaACPcBGAsYHg/s71/amc.PNG", AMC HD
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/4950
 #EXTINF:-1 tvg-logo="https://www.dvbviewer.tv/forum/uploads/monthly_01_2017/post-1-0-60020400-1483431398.png",A&E HD 
-
+http://mag.you24.online:8080/9ukn9ca2r8/t5cmn01e34/6673
 #EXTINF:-1 tvg-logo="https://www.dvbviewer.tv/forum/uploads/monthly_01_2017/post-1-0-60020400-1483431398.png",A&E
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/4949
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90192
 #EXTINF:-1 tvg-logo="https://www.tvconexion.com/img/tcm.png",TCM HD
-
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90395
 #EXTINF:-1 tvg-logo="https://www.tvconexion.com/img/tcm.png",TCM HD
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/5020
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS HD
-
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90394
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS HD
 http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/29418
 #EXTINF:-1 tvg-logo="https://bit.ly/39NSP8A",TNT FULL.HD
-
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90399
 #EXTINF:-1 tvg-logo="https://bit.ly/39NSP8A",TNT FULL.HD
-http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/3930
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90399
 #EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/tnt-series.png",TNT SERIES HD
-
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90400
 #EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/tnt-series.png",TNT SERIES HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/86599
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--4OjePyrro8/YBNnpTBCgtI/AAAAAAAAawc/kieWSNaRXY01ZaSssX48siMgpIxn26UwwCPcBGAsYHg/s71/space.PNG",SPACE FUL-HD
@@ -629,9 +631,11 @@ http://pyramidsiptv.com:8080/mohamed/mohamed123/86568
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YcXVYNsVWyE/VylV2VLlqII/AAAAAAAAb8A/ZnY3GPUlYAoGlS0QjpIjUmEeHopSRRHEwCCo/s71/studio-universal.PNG", STUDIO CHANNEL HD
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/5018
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/CMcnNJXtP6-HBauZdDnNDvXsMzXMAu8H1fOZpnqOumjTqQxxa4nBccopFs_Jqf7snKaF4WbUmFHtshuu21I=w70-h71",WARNER HD
-http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=warner&k=SrRegio&f=.m3u8
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90467
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/CMcnNJXtP6-HBauZdDnNDvXsMzXMAu8H1fOZpnqOumjTqQxxa4nBccopFs_Jqf7snKaF4WbUmFHtshuu21I=w70-h71",WARNER HD
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90468
 #EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY HD
-http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=syfy&k=SrRegio&f=.m3u8
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90368
 #EXTINF:-1 tvg-logo="https://etb.com/Negocios/img1/guia/logos/logo-Syfy.png",SYFY 
 http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/29391
 #EXTINF:-1 tvg-logo="https://media.glassdoor.com/sqll/352748/syfy-squarelogo-1502779953952.png",SYFY HD usa
@@ -731,9 +735,9 @@ http://us.bestvideostreaming.is/8882/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/560368.jpg", Ei HD
-
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/560368.jpg", Ei 
-http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/148722
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90255
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/560368.jpg", Ei FULL.HD
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90256
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-miami-tv-life-3522.jpg", MIAMI.TV HD
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvWEB/chunklist_w2005472791_b2592000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl1TlLdbCmEOYeIPqWQvG4teVtEQsyBvE-dBgXOAsC_N2sUI-5ahktN_ET0EL9TFo272w&usqp=CAU", VENUS.TV
@@ -2171,33 +2175,33 @@ http://video7.stream.mx:1935/raxatv/raxatv/.m3u8
 #EXTINF:-1 tvg-logo="https://nick-intl.mtvnimages.com/uri/mgid:file:gsp:entertainment-assets:/webplex/site/nick/intl/nickelodeon-600x600.png", NICKE LODEON
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-IzJHUKA1iwU/VFxBuVAuLpI/AAAAAAAAbYM/WpHxLIaCIq0/s71/nickelodeon.PNG",NICK HD
-http://ipeteve.com/php/SR_REGIO_100821/bg.php?cat=infantiles&ch=nick&f=.m3u8
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90358
 #EXTINF:-1 tvg-logo="https://dp4uuw9dn4glv.cloudfront.net/images/channel/teen_nick.jpg",Nick 2 HD
-
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90355
 #EXTINF:-1 tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/5e988e52-ab99-4050-b6dd-e8e2cfea7688",NICK JR HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=997&deviceId=5d8d08395f39465da6fb3ec4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/5e988e52-ab99-4050-b6dd-e8e2cfea7688",NICK JR
 http://156.96.44.13:8081/televall2021/196_.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VrZe6BH.png",NATGEO KIDS HD
-
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90348
 #EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png",EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/1655863.jpg",SPAIN:BOING HD
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-RvVSAGJ0OXo/VFxBspPgZmI/AAAAAAAAbXk/Y9jZNiAu9WA/s71/boomerang.PNG",BOOMERANG
-http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/154079
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90208
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sKYBauafgIs/UK0yl_gD3vI/AAAAAAAAUdk/YaWCslvdsCI/s71/cartoon-network.PNG",CARTOON NETWORK HD
-http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/10969
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jquEC3iPBjk/YBNnpWAlZmI/AAAAAAAAawc/6-TCtGo6OZQIc2A7tdfRdoHuPZDTlWjmACPcBGAsYHg/s71/disney-xd.PNG",DISNEY XD
-http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/10968
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jvcOxsqXwOY/Ue7S8YsBk0I/AAAAAAAAZOA/x8gK_O6Jq9I/s71/Disney-Junior.PNG",DISNEY JUNIOR 
-http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/154083
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xnVYxPgN-Ss/YBNnpWH15cI/AAAAAAAAawc/swqYHBNQcI4BjWk22AtEvX5j-BwSPXBcgCPcBGAsYHg/s71/disney-channel.PNG",Disney ChannelHD
-http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/148728
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90251
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-jquEC3iPBjk/YBNnpWAlZmI/AAAAAAAAawc/6-TCtGo6OZQIc2A7tdfRdoHuPZDTlWjmACPcBGAsYHg/s71/disney-xd.PNG",DISNEY XD
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90252
+#EXTINF:-1 tvg-logo="https://1.bp.blogspohttp://dream4k.co:2082/mminass770399/alvrdbib3s/90252t.com/-xnVYxPgN-Ss/YBNnpWH15cI/AAAAAAAAawc/swqYHBNQcI4BjWk22AtEvX5j-BwSPXBcgCPcBGAsYHg/s71/disney-channel.PNG",Disney ChannelHD
+http://dream4k.co:2082/mminass770399/alvrdbib3s/90249
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/full/333-3330910_disney-channel-gold-vector-logo-disney-channel-logo.png",M|Cinema Disney Family ⁽ᴴᴰ⁾
-http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/186317
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Y8pRT2JJAMw/YBNnpVd1sFI/AAAAAAAAawc/R1qte1t77jg4yvOaCOuSrRo3Drd8ZfVQACPcBGAsYHg/s71/discovery-kids.PNG",DISCOVERY KIDS
-http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/154082
+
 
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/RELIGION.png?fit=500%2C300&ssl=1",RELIGION
