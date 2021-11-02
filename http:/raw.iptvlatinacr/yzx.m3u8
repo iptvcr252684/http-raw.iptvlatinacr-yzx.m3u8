@@ -1,9 +1,9 @@
 #EXTM3U
 #http-raw.iptvlatinacr-yzx.m3u8
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/15/3/14/6963405.jpg",IPTV LATINA CR CHANNEL
-https://green-dns4.com/video_visit/CostaRica_Anthem_FINAL%20(450x253).mp4 www.iptvlatinacr.club.channel.andraid.m3u
+http://oklivetv.com/xplay/error/offline.mp4
 #EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",02.11.2021
-http://oklivetv.com/xplay/error/offline.mp4 
+https://green-dns4.com/video_visit/CostaRica_Anthem_FINAL%20(450x253).mp4 www.iptvlatinacr.club.channel.andraid.m3u8
 #EXTINF:0 tvg-logo="https://listasparawiseplay.com/wp-content/uploads/2149-m3u-image.jpg",LISTA M3U
 https://www.youtube.com/watch?v=Bob84Q6NZJ8
 #EXTINF:-1 tvg-logo="https://imgur.com/EkMMbwB.png" group-title="INFO",TUS CANALES
@@ -76,7 +76,7 @@ https://srv2.zcast.com.br/moratvcr/moratvcr/chunklist_w321147190.m3u8?_=1
 https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvnC1idEPifXp_-FSxNoYKwfxcuTLN9fGAXw&usqp=CAU", NORTE INFORMATIVO HD
 https://inliveserver.com:1936/8328/8328/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4E22AQEbX3edcujp7A/feedshare-shrink_800/0/1624421400045?e=1635379200&v=beta&t=6QlVnQKQpCqp2G42PgVl7EgmNML1gGuYbOsQgxVn_nQ", COSTA BALLENA.TV HD
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-costa-ballena-en-vivo-277x156.jpg", COSTA BALLENA.TV HD
 https://stmv1.srvif.com/ronald5612/ronald5612/chunklist_w1541850670.m3u8
 #EXTINF:-1 tvg-logo="https://www.doutico.com/wpimages/wp68f6f7fb_05_06.jpg",DREIKO.TV
 https://stmv2.voxtvhd.com.br/reikotv/reikotv/chunklist_w1029571869.m3u8
