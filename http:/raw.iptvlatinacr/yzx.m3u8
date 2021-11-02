@@ -2282,7 +2282,7 @@ http://media.profesionalhosting.com:1935/8201/8201/chunklist_w261067028.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/27077f_bfe471027b974b23a7890f43b2dcee79~mv2.png/v1/fill/w_215,h_215,al_c,q_80,usm_0.66_1.00_0.01/27077f_bfe471027b974b23a7890f43b2dcee79~mv2.webp", TU MEJOR TELEVISION HD
 http://media.profesionalhosting.com:1935/8175/8175/chunklist_w1849997651.m3u8
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2015/09/antena3.jpg",ANTENA 3 HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/3829
+
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2015/09/antena3.jpg",ANTENA 3 ESP HD
 https://livestartover.atresmedia.com/antena3/master.m3u8
 #EXTINF:-1 tvg-logo="https://picon-13398.kxcdn.com/antena3hd.jpg", Antena 3 HD
@@ -2304,8 +2304,6 @@ http://91.126.141.13:1935/live/61/1800-def.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GxqTE25.png" group-title="TV ESPAÑA",TELECINCO 5
 https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-3mXdCtaTRDs/XKJot0g39wI/AAAAAAAAAMg/4WftSUaDc70WW8UsGea8YtuIp_nXab-HQCLcBGAs/s320/la%2Bsexta.png", LA SEXTA CANAL 6 FUL HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/3826
-#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-3mXdCtaTRDs/XKJot0g39wI/AAAAAAAAAMg/4WftSUaDc70WW8UsGea8YtuIp_nXab-HQCLcBGAs/s320/la%2Bsexta.png", LA SEXTA CANAL 6
 https://livestartover.atresmedia.com/lasexta/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/D2lBaVIX0AISqxR.jpg", GALICIA HD 
 http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
@@ -2322,9 +2320,9 @@ http://zemlja.eu:25461/gladio3356/mpEne8Fot5/3852
 #EXTINF:-1 tvg-logo="https://miro.medium.com/max/960/0*vxPEMP_Ww3WiTOrK.jpg", NOVA.TV 
 https://e6-ts.cdn.bg/ntv-inter/fls/ntv_1.stream/chunklist.m3u8?at=7380d951fb98957fe9f545b2db0dbafe
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/841301943679123456/sgaXRdpZ_400x400.jpg", CALLE 13 FUL-HD
-http://zemlja.eu:25461/gladio3356/mpEne8Fot5/3833
+
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/m/o/v/movistar-accion.jpg",MOVIESTAR ACCION HD
-http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/10476
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Movistar_Cine_Espa%C3%B1ol.svg/1280px-Movistar_Cine_Espa%C3%B1ol.svg.png", CINE Ñ 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-rzAS2gJglY_oS0tVrVzlS9GY21S3hDHc5v1VFzZ4pKgkP-09dtB_3DAw8ix7m1967CI&usqp=CAU",MOVISTAR SERIES HD
@@ -2337,8 +2335,6 @@ http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/10505
 http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/10479
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/e3ebc8108129653.Y3JvcCwxMjA2LDk0MywwLDg.jpg", Canal Hollywood FUL-HD
 http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/10447
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/e3ebc8108129653.Y3JvcCwxMjA2LDk0MywwLDg.jpg", Canal Hollywood FUL-HD
-http://ott-iptv.info:2016/Daniel/Daniel/65241
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvUR8icHyO0YFY4W8bmUMxSsA8kcxyqxXJxQ&usqp=CAU", Movistar SERIES EXtra
 https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/e4ir8okayplln1n.m3u8?s=2O2ljsUF6lLUc0tupNPA3A&e=1609838815
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DaBMejiW0AEd3En.png", M-SERIES HD
@@ -2346,7 +2342,7 @@ https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/bvo6ijm8nvmr73.m3u8?s=EZ0tzgxxk8e
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdByrmGVNifOPE1W-LsD8oYtNGiRsIrrsMFw&usqp=CAU", CMM HD
 http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8
 #EXTINF:-1 tvg-logo="https://k60.kn3.net/0/B/C/2/7/A/05E.png" group-title="• Entretenimiento",A3S SERIES HD
-http://planettvweb.com:8091/German/German/16289
+https://us-b5-p-e-kj2.cdn.mdstrm.com/live-stream-secure/5cae562e0ca2f30815231c0f/publish/media_4000.m3u8?aid=5b8437d857a34c21a93dd41a&access_token=DST4b676d7da5a2a92ee15f8efcbcd00606&pid=FqfqmHtyXN3YglxzH5nYBILPn6oDEdT5&sid=V8K5llIdm7r1BaOgcv06Cv1H25OOH9gO&uid=22R0aSzYxkKHj7laMz70PjJMyAm22fNB&es=us-b5-p-e-kj2.cdn.mdstrm.com&ote=1635901458123&ot=XL0Iw25hZ_oCB04OHsmviw&proto=https&pz=us
 #EXTINF:-1 tvg-logo="https://k60.kn3.net/0/B/C/2/7/A/05E.png" group-title="• Entretenimiento",A3S SERIES 
 https://livepull1.secure.footprint.net/a3seriesmpp/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://www.formulatv.com/images/noticias/41500/41534/1_f2f220ed12.jpg" group-title="España",TV3
@@ -2356,15 +2352,11 @@ https://cdnlive.shooowit.net/rtpalive/smil:directo.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/es-mirame-tv-6890.jpg",MIRAME TV
 https://593fa17dec176.streamlock.net:455/mirametv/mirametv/chunklist_w2142848239.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png", Divinity HD
-https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/2xbszs2.m3u8?s=vx-vF--w8O5UyCHhR6shig&e=1609839083
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Divinity_2012.png", Divinity
-https://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_2.m3u8
+https://live.mitele.es/hls/live/2005335/divinity/02.m3u8
 #EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/f/d/f/fdf.jpg", Factoria de Ficcion HD
-https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/73iqdeqq05ps.m3u8?s=t2LQm-Na8kWRmT9d4hEckw&e=1609839001
-#EXTINF:-1 tvg-logo="https://sincroguia-tv.expansion.com/uploads/images/f/d/f/fdf.jpg", Factoria de Ficcion
-https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8
-#EXTINF:-1 tvg-logo="https://www.verahoratv.com/logos/energy.png", ENERGY HD
-https://e6euzdxur6xfs839.ezcdn483.net:8443/hls/nhdi7t9.m3u8?s=FiSWHev5t2T-fdS-DmcAAg&e=1609839038
+https://live.mitele.es/hls/live/2005335/divinity/02.m3u8
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/04/energylogo.jpg", ENERGY HD
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/1280px-Neox.svg.png", Neox
 http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_1_av-b.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Telecafe11.png",Telecafe
@@ -2411,9 +2403,9 @@ https://stream.mariatvcdn.com/canaleventunodue/61d14e72c90980498c9d7cee64fde847.
 https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/chunklist_w733172252.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0187/4896/4915/files/nove-logo_alpha_gross-01.png?height=628&pad_color=f7f6f5&v=1571593104&width=1200",NOVE FUL.HD
 https://ch.iptvmate.net/0de31111cc2fc0d0bd23ce7c74c544ec.m3u8
-#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4E22AQF4xTkwuqxdOQ/feedshare-shrink_800/0/1626926985256?e=1629936000&v=beta&t=01Uf_-VffVGUgVpsn80i48hECDB5Hav-FTHobhySAv4",RUMOVIES
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLK8rvIeum15lx3lHYfwDqsM2YgpG1wVdPqg&usqp=CAU",RUMOVIES
 https://v2.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C4E22AQEdAT27WLr6Pw/feedshare-shrink_800/0/1627868851933?e=1630540800&v=beta&t=37WefT4bYxWOxKlI05un2W2XW5Ea7F35xknJCL5U_OA",FILM HORROR
+#EXTINF:-1 tvg-logo="https://www.vippng.com/png/full/57-574813_graphic-design.png",FILM HORROR
 https://autopilot.catcast.tv/content/38710/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/4IkIBkIFApQMYml2sW7XAV21mye06E_X5HssA-WsCRYBHIxWP5BQFzq79t0P5T8MrVs", FILM BOX
 http://94.230.240.17:8080/film_box/index.m3u8
@@ -2443,9 +2435,9 @@ https://n24-cdn-live.ntv.co.jp/ch01/high.m3u8
 https://iprvlatinacr.clib/145.174.184
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-aKJQHL2PzpU/YBBGt4ElVyI/AAAAAAABBY4/4qK7MKPryjYxYkHsH5hlp5inml0upXWQwCLcBGAsYHQ/s0/TVR%2B1%2BLIVE.jpg",TVR.1
 https://mn-nv.mncdn.com/tvr_vod/UduEYS/cartons/tvr-plus-geoip.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FKLnhzkSZQk/YBBG5kcVk1I/AAAAAAABBY8/7jaErlOFmCs13t2DwZEbqJgP3PtU6vyQACLcBGAsYHQ/s0/TVR%2B2%2BLIVE.jpg",TVR.2                                                                                                                            ",TVR.2
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FKLnhzkSZQk/YBBG5kcVk1I/AAAAAAABBY8/7jaErlOFmCs13t2DwZEbqJgP3PtU6vyQACLcBGAsYHQ/s0/TVR%2B2%2BLIVE.jpg",TVR.2                                                        
 https://mn-nv.mncdn.com/tvr_vod/UduEYS/cartons/tvr-plus-geoip.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9eiV5S-Z5xg/YBBHCP3Cq0I/AAAAAAABBZE/uh6YMQka5n0Gc6Xi4g5AsjhRdLFme-v_gCLcBGAsYHQ/s0/TVR%2B3%2BLIVE.jpg";TVR.3                                                                                                                    ",TVR.3
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9eiV5S-Z5xg/YBBHCP3Cq0I/AAAAAAABBZE/uh6YMQka5n0Gc6Xi4g5AsjhRdLFme-v_gCLcBGAsYHQ/s0/TVR%2B3%2BLIVE.jpg";TVR.3                                                             
 https://mn-nv.mncdn.com/tvr_vod/UduEYS/cartons/tvr-plus-geoip.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_udtXrNzg70/YBBHV1dXeaI/AAAAAAABBZU/Kr20YGKfMhsTH_kXHQijEA4wqxpK9fLTACLcBGAsYHQ/s0/Realitatea%2BTv%2BPlus%2BLIVE.jpg",REALITATEA PLUS
 https://livestream.realitatea.net/livestream/liverealitatea.stream/chunklist.m3u8
@@ -2500,7 +2492,7 @@ http://dimapro.cz:8080/00:1A:79:17:00:9E/ziajdjjfdifjd64646/38173
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/iY46e8xBcdHCvXB7ArINqoPJzhY00tu5Slhl-OeNms8pxa4_Lta8sG0OJ8OjUd8wZA", LIBANO TV
 http://120.130.128.134.200
 #EXTINF:-1 tvg-logo="https://www.mtv.com.lb/Content/images/logo-header.jpg", MTV Murr Television HD
-https://cllive.itworkscdn.net/mtvlebanonlive/token=nva=1634965451~dirs=1~hash=04a3fe403941bcd34ed6a/mtvlive.smil/murrtelevision_chunks.m3u8
+https://cllive.itworkscdn.net/mtvlebanonlive/token=nva=1635818335~dirs=1~hash=0f5a12fbc02e71d89c439/mtvlive.smil/murrtelevision_240p_chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://rlv.zcache.es/pegatina_rectangular_texto_del_nombre_del_simbolo_de_la_bandera_de_pa-r39dee7db0c324c499155b7d8918ed374_0ugdw_8byvr_307.jpg",JAPON IPTV
 http://100.145.2010.125.130
