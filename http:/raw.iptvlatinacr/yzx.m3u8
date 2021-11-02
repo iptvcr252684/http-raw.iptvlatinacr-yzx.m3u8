@@ -449,7 +449,7 @@ http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/4936
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1560.png", GALAVISION TV 
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/4999
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/HlGLCzpZXvN0hFygdY1TB8L2ID8u9A496IOT4ftY9sXmwtPcVuUe-fQ8OuJCBitMChlJpRCtLCUJUb37Msg=w70-h71",TLN NOVELAS HD
-http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=tlnovelas&k=SrRegio&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/HlGLCzpZXvN0hFygdY1TB8L2ID8u9A496IOT4ftY9sXmwtPcVuUe-fQ8OuJCBitMChlJpRCtLCUJUb37Msg=w70-h71",TLN NOVELAS
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/5023
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/HlGLCzpZXvN0hFygdY1TB8L2ID8u9A496IOT4ftY9sXmwtPcVuUe-fQ8OuJCBitMChlJpRCtLCUJUb37Msg=w70-h71",TLN NOVELAS
@@ -515,15 +515,13 @@ https://cdn87.theus6tv.tk/locals/SanDiego/xhtit-tdt.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTmVy23NMXR9I3HrenB6TrBLNR1VPCLpD5XGQ&usqp=CAU", Unimas HD
 https://cdn87.theus6tv.tk/locals/BayArea/kfsf-dt1.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es",CANAL 5 HD
-http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=elcinco&k=SrRegio&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es",CANAL 5 
 http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/46644
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/youtubepedia/images/2/2b/Cvo4PpwN_400x400.png/revision/latest?cb=20200130193630&path-prefix=es",CANAL 5 
 http://balancer1.iptvmx.com:8081/tecno/Canal5.TecnoByte/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.historyplay.tv/images/footer/logo-lifetime.png?_v=1.5.99",LIFETIME FULL.HD
-http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=lifetime&k=SrRegio&f=.m3u8
-#EXTINF:-1 tvg-logo="https://www.historyplay.tv/images/footer/logo-lifetime.png?_v=1.5.99",LIFETIME HD
-http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/29351
+
 #EXTINF:-1 tvg-logo="https://www.historyplay.tv/images/footer/logo-lifetime.png?_v=1.5.99",LIFETIME HD
 http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/29352
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-I-xHH7bNjS0/YBNnpeyb8qI/AAAAAAAAawc/9P4F4hfMfB4oBJHQTVl0VMiXDlQtciH2gCPcBGAsYHg/s71/golden.PNG",GOLDEN FULL.HD
@@ -533,7 +531,7 @@ http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/5001
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-zdgZWj5yiMk/YBNvjSlIzJI/AAAAAAAAaw0/K9hZONhu81QKcMlFd7zChAa-XLoCsu-NACPcBGAsYHg/s71/golden-plus.PNG",G PLUS FUL.HD
 http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/29329
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6tMHr3iDTaQ/YBNnpRSLLVI/AAAAAAAAawc/P18fo8Qv-MgWoEo2DPkMtAiPIuEb212awCPcBGAsYHg/s71/golden-edge.",EDGE FUL.HD
-http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/29327
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-6tMHr3iDTaQ/YBNnpRSLLVI/AAAAAAAAawc/P18fo8Qv-MgWoEo2DPkMtAiPIuEb212awCPcBGAsYHg/s71/golden-edge.",EDGE FUL.HD
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/4937
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKfr5xeqcVZZqwMnzsbblg2EJdQr2zRrFXA&usqp=CAU", PREMIER GOLDEN FULL.HD
@@ -543,11 +541,9 @@ http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=axn&k=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-txad7h6SuBE/VuTS5os3IrI/AAAAAAAAb68/oXmDebkJQgwnHIo4YbVNG1T_D4n-XG5WwCCo/s71-Ic42/axn.PNG",AXN HD
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/4953
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5SOU6MlyQTA/hqdefault.jpg",MULTI PREMIER FULL.HD
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/5SOU6MlyQTA/hqdefault.jpg",MULTI PREMIER HD
 http://201.220.141.118:8000/play/a051/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/mCOeEtY5ciFN2FPXt0VrdAMHJZNMwN030MBFDU7H43g80LMhLaRQfgh5L4c035y6yCkU1JJKvxZaqLHTIMU=w70-h71", SONY CHANNEL FUL.HD
-http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=sony&k=SrRegio&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/mCOeEtY5ciFN2FPXt0VrdAMHJZNMwN030MBFDU7H43g80LMhLaRQfgh5L4c035y6yCkU1JJKvxZaqLHTIMU=w70-h71", SONY CHANNEL 
 http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/141781
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/mCOeEtY5ciFN2FPXt0VrdAMHJZNMwN030MBFDU7H43g80LMhLaRQfgh5L4c035y6yCkU1JJKvxZaqLHTIMU=w70-h71", SONY CHANNEL HD
@@ -579,57 +575,53 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT9
 #EXTINF:-1 tvg-logo="https://iptv-online.org/wp-content/uploads/2020/06/IPTV-USA.png",IPTV USA
 http://www.lengua.com/anthems/USA.mp3 
 #EXTINF:-1 tvg-logo="https://tribunapr.uol.com.br/wp-content/uploads/sites/56/2021/02/19092811/star-channel-1024x683.png",STAR CHANNEL.HD
-http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=starch&k=SrRegio&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://tribunapr.uol.com.br/wp-content/uploads/sites/56/2021/02/19092811/star-channel-1024x683.png",STAR CHANNEL.HD
 http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/6481
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-uUXjj4UiSsU/YKvGSwESG-I/AAAAAAAAcek/OVW6LZgfmBUAXUHbY_6v1O65Q_L12DBrwCPcBGAsYHg/s71/star-life.PNG",STAR LIFE HD
-http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=starlife&k=SrRegio&f=.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-uUXjj4UiSsU/YKvGSwESG-I/AAAAAAAAcek/OVW6LZgfmBUAXUHbY_6v1O65Q_L12DBrwCPcBGAsYHg/s71/star-life.PNG",STAR LIFE 
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/4993
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-uUXjj4UiSsU/YKvGSwESG-I/AAAAAAAAcek/OVW6LZgfmBUAXUHbY_6v1O65Q_L12DBrwCPcBGAsYHg/s71/star-life.PNG",STAR LIFE HD
 http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/29312
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNkKu1QsOsgXcFvzk_5_0Rf9zbop1vI7A2EmBAtPIv115aZTEiPQ", FXMOVIES FUL
 http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/6493
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX HD
-http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=fx&k=SrRegio&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/XFX/XHD_290x170.png",FX FULL.HD
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/4998
 #EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg",CINECANAL HD
-http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=cinecanal&k=SrRegio&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.thedailytelevision.com/sites/default/files/notas/imagenes/1sgrxzqa_400x400.jpg",CINECANAL HD
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/4967
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Pr0gAr66H3U/YBNnpQ7o3sI/AAAAAAAAawc/KcN-enfqbBs4JQINDw5ydE73FXk36qLaACPcBGAsYHg/s71/amc.PNG", AMC FULL.HD
-http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=amc&k=SrRegio&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Pr0gAr66H3U/YBNnpQ7o3sI/AAAAAAAAawc/KcN-enfqbBs4JQINDw5ydE73FXk36qLaACPcBGAsYHg/s71/amc.PNG", AMC HD
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/4950
 #EXTINF:-1 tvg-logo="https://www.dvbviewer.tv/forum/uploads/monthly_01_2017/post-1-0-60020400-1483431398.png",A&E HD 
-http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=ae&k=SrRegio&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.dvbviewer.tv/forum/uploads/monthly_01_2017/post-1-0-60020400-1483431398.png",A&E
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/4949
 #EXTINF:-1 tvg-logo="https://www.tvconexion.com/img/tcm.png",TCM HD
-http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=tcm&k=SrRegio&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.tvconexion.com/img/tcm.png",TCM HD
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/5020
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS HD
-http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=tbs&k=SrRegio&f=.m3u8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS 
-http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/141764
+
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS HD
 http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/29418
 #EXTINF:-1 tvg-logo="https://bit.ly/39NSP8A",TNT FULL.HD
-http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=tnt&k=SrRegio&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://bit.ly/39NSP8A",TNT FULL.HD
 http://yandanyandanke.com:8080/Cg4vC3ERee/ZwZSfKqQ2E/3930
 #EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/tnt-series.png",TNT SERIES HD
-http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=tntseries&k=SrRegio&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/tnt-series.png",TNT SERIES HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/86599
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--4OjePyrro8/YBNnpTBCgtI/AAAAAAAAawc/kieWSNaRXY01ZaSssX48siMgpIxn26UwwCPcBGAsYHg/s71/space.PNG",SPACE FUL-HD
-http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=&k=SrRegio&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/--4OjePyrro8/YBNnpTBCgtI/AAAAAAAAawc/kieWSNaRXY01ZaSssX48siMgpIxn26UwwCPcBGAsYHg/s71/space.PNG",SPACE HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/86551
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/X1s9yE33uh0BIQdH3f05lI4-pwYi96VmU215Vj6IdamhY-nBiiSeURD8s_UEVax4O2qH4T2lua72fLV36JA=w70-h71",UNIVERSAL CHANNEL FUL.HD
-http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/5028
+
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/X1s9yE33uh0BIQdH3f05lI4-pwYi96VmU215Vj6IdamhY-nBiiSeURD8s_UEVax4O2qH4T2lua72fLV36JA=w70-h71",UNIVERSAL CHANNEL HD
 http://201.220.141.118:8000/play/a0eo/index.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-YcXVYNsVWyE/VylV2VLlqII/AAAAAAAAb8A/ZnY3GPUlYAoGlS0QjpIjUmEeHopSRRHEwCCo/s71/studio-universal.PNG", STUDIO CHANNEL FULL.HD
@@ -739,7 +731,7 @@ http://us.bestvideostreaming.is/8882/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/560368.jpg", Ei HD
-http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=e&k=SrRegio&f=.m3u8
+
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/560368.jpg", Ei 
 http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/148722
 #EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-miami-tv-life-3522.jpg", MIAMI.TV HD
