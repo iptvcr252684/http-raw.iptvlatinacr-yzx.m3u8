@@ -2,7 +2,7 @@
 #http-raw.iptvlatinacr-yzx.m3u8
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/15/3/14/6963405.jpg",IPTV LATINA CR CHANNEL
 https://green-dns4.com/video_visit/CostaRica_Anthem_FINAL%20(450x253).mp4 www.iptvlatinacr.club.channel.andraid.m3u
-#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",01.11.2021
+#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",02.11.2021
 http://oklivetv.com/xplay/error/offline.mp4 
 #EXTINF:0 tvg-logo="https://listasparawiseplay.com/wp-content/uploads/2149-m3u-image.jpg",LISTA M3U
 https://www.youtube.com/watch?v=Bob84Q6NZJ8
@@ -2433,7 +2433,7 @@ https://iprvlatinacr.clib/145.174.184
 https://mn-nv.mncdn.com/tvr_vod/UduEYS/cartons/tvr-plus-geoip.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FKLnhzkSZQk/YBBG5kcVk1I/AAAAAAABBY8/7jaErlOFmCs13t2DwZEbqJgP3PtU6vyQACLcBGAsYHQ/s0/TVR%2B2%2BLIVE.jpg",TVR.2                                                        
 https://mn-nv.mncdn.com/tvr_vod/UduEYS/cartons/tvr-plus-geoip.mp4/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9eiV5S-Z5xg/YBBHCP3Cq0I/AAAAAAABBZE/uh6YMQka5n0Gc6Xi4g5AsjhRdLFme-v_gCLcBGAsYHQ/s0/TVR%2B3%2BLIVE.jpg";TVR.3  
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9eiV5S-Z5xg/YBBHCP3Cq0I/AAAAAAABBZE/uh6YMQka5n0Gc6Xi4g5AsjhRdLFme-v_gCLcBGAsYHQ/s0/TVR%2B3%2BLIVE.jpg",TVR 3 
 https://mn-nv.mncdn.com/tvr_vod/UduEYS/cartons/tvr-plus-geoip.mp4/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_udtXrNzg70/YBBHV1dXeaI/AAAAAAABBZU/Kr20YGKfMhsTH_kXHQijEA4wqxpK9fLTACLcBGAsYHQ/s0/Realitatea%2BTv%2BPlus%2BLIVE.jpg",REALITATEA PLUS
 https://livestream.realitatea.net/livestream/liverealitatea.stream/chunklist.m3u8
