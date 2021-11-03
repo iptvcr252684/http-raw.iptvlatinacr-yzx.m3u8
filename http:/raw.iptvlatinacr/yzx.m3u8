@@ -241,6 +241,8 @@ http://127.0.0.100.checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://d172ao1khilsti.cloudfront.net/tcsgo-mediafiles/a434da38-fc94-467f-b3e2-11e0e021631a.jpg", TCS CANAL 2
 https://secure-video.tcsgo.com/tcshd/index480p30_20200822T210827.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/TCSPlus.png", TCS+ 
+http://dream4k.co:2082/mminass770399/alvrdbib3s/282038
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ejnJVznhK_4/maxresdefault.jpg",TCS HD
 https://secure-video.tcsgo.com/tcshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ejnJVznhK_4/maxresdefault.jpg",TCS HD
 https://secure-video.tcsgo.com/tcshd/index360p30_20200822T210827.m3u8
@@ -252,15 +254,15 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 https://algochivo.com:1936/canal11/canal11/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/9a/3d/7c/9a3d7c5a-0655-0766-9785-a19915defeb7/source/256x256bb.jpg",TTV TRIBUNA
 https://cm.hostlagarto.com:4445/TRIBUNA-TV/tribuna.myStream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/T30rnYRCFjoqorGxXmi4mtQu8yD4SNEUnm_BPkA8O0M6Kei65RQsM9ld43uA-A68Pp1Q=s170",talanga.tv canal 33
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/fcRKIMUFHidN-wZ9W8pfXznKq0w1FK6iCRjpK8eIHr2JEsYXnbWy0MZRxY31HaCFYODnqg=s170",talanga.tv canal 33
 https://www.opencaster.com/ramironaira-100-100
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRC1UG6Gs3XPB7bHpZC0LzPTz_mk9zpslXqbF5b=s88-c-k-c0x00ffffff-no-rj", SOL.TV
 https://edge1o.live.opencaster.com/caster/irxzwyzbBbyD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canal_12_El_Salvador_2018.png/806px-Canal_12_El_Salvador_2018.png",Canal 12 HD
-https://sv-canal12-canal12-live.ned.media/vid_160p.m3u8
+http://dream4k.co:2082/mminass770399/alvrdbib3s/282034
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canal_12_El_Salvador_2018.png/806px-Canal_12_El_Salvador_2018.png",Canal 12 
 http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHKRru601PqvE80s_Rb0wt7gCS8ciy5ZoEqQ&usqp=CAU",CANAL TVX HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHKRru601PqvE80s_Rb0wt7gCS8ciy5ZoEqQ&usqp=CAU",CANAL TVX 
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CtcFPmlpMtySr7lQmkgO6MIq89x9TF_o6jf4TRhz1yYArMq7DKYWvnXOicDE3TceQf64jabVj1744ITjaF_C278ACaCj7EHG4kp1_GC60go3C-NghhdbZW0blcp5ds-JCt34gGsDlf2_y1mdC7xXAu_Q1Lkq8gxyqJ6SBStADAWhq6ECR3vjHgmZYQroiC9Yrdw6DuBZPARKme9MPjsapcAQ25uI_srx-zBseUPr_cT5e8cJepDTzheR4fdY_3EhzeBZX96I2FcIl-w8DvCmXlI6EWlbi1yUmST6nsv5Fm7GvpCLqj-vvVybY7AusKDEzrFrenciBqLzPRSRoSu8OPnUI8DNbmwkrvcgkML8thAJoG13AG5W-ElEQB3B9PcReQ-S_mwMqmmMMbT8mhhISkvtsASfJwvG664ESGPUGonsIjHVgjMVlyGq_ckuU_LwVMHQBEDkH3OGYVXnduCfkMtVVuyZbF5-MVH666kv8wYvs7PR1YXQfuTIB0BxZdjiGyrQMYsOcgpj2JVDOkNj83WXxPLt9r-3nQ4hJ-nvMBsVpDxJpPQb7V7gjBnEk0QPDGuRcWuBBer15GiVz1Oq1_bNwBy-RY2B7DyFcuN6vk_MR_KT7clCi-yo3ZFEl2A7OevAAMJUdoODP1fsNFInWA-8TvnKgv5v5cjEy1vG4FoK3LynmJc17ZT-8PSruG0p9-6AQAM6XFqU8NVqJeWYFKh90OVQcJOIVFA1X0Il5Kj_JQt_uavs1iTUy-7JrC7w6SIgck7boY5L9gTm3zF58zL3_4YcHywNLdWWL4lW_MFTzVmdqn4j1U_7WEhh8aPqMN6Dq3BS_M-ov1Ydh51w8rOubzciODeF3ccHslizYtreFwOpSDnuJcdbKXdkdYqn-1KRWc9mDDwUhdseozStG8wBSg1CfUJ8BRM5zRABG2B1t9ysAk5M7SuyKClbJfM0E1TC0HkRrawofhoModMigA0JtFLqBQ29IAEqCXVzLWVhc3QtMjCZAg.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHKRru601PqvE80s_Rb0wt7gCS8ciy5ZoEqQ&usqp=CAU",CANAL TVX 
 http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1682980534.m3u8
