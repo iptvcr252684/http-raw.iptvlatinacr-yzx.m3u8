@@ -369,7 +369,7 @@ https://hdvideo2.cdn.net.co/live01/ta_720p.m3u8
 #EXTINF:-1 tvg-logo="https://logrospublicitarios.com/wp-content/uploads/2020/04/Teleantioquia2020logo-alto.png",TELEANTIOQUIA
 https://hdvideo2.cdn.net.co/live01/ta.m3u8
 #EXTINF:-1 tvg-logo="https://www.cmbcolombia.tv/vistas/paginas/images/logo.png", CMB TELEVISION
-https://liveingesta118.cdnmedia.tv/bethesdalive/smil:live.smil/chunklist_b2000000.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnh_KJBldCbMP-sSkFlD_ElKJm_M4BbOx1C10qWnxw=s900-c-k-c0x00ffffff-no-rj", Canal Visión Dorada HD
 https://movil.ejeserver.com/live/visiondorada.m3u8?_=1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRODh0wc6rMCpNyXjFJ5yddEZnPxFmVxsAsKM7hCgV2tiD11xF2&usqp=CAU",MULTICANAL
@@ -1802,6 +1802,8 @@ http://iptvlatinacr.live_listolay/cr¿?.tv_127.0.0.10.m3u8
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/chunklist_w400572797.m3u8
 #EXTINF:-1 tvg-logo="https://st3.depositphotos.com/9543826/14430/v/1600/depositphotos_144301425-stock-illustration-letter-and-digit-m2-logo.jpg", M2
 http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-28-alsacias-en-vivo.jpg.webp", ATV
+https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8?_=1
 #EXTINF:-1 tvg-logo="http://cmmusica.com.ar/images/logo.png", CM MUSICA 
 http://g1.mc-slo.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
 #EXTINF:-1 tvg-logo="https://www.parsatv.com/index_files/channels/rutv.png", RU.TV
@@ -1954,7 +1956,7 @@ http://playlist.onlybest.tv/ru/channel/45d923b700bdbb53af22c8219ae034ac/78/index
 #EXTINF:0 tvg-logo="https://televisatvdepaga.com/wp-content/uploads/2017/08/univision.jpg" , Univision TDN HD
 http://89.105.194.59:25461/live/ussKKF10/ussKKF10/50.m3u8
 #EXTINF:-1 tvg-logo="http://images.mi.tv/channels/hn_todo-deportes-tdtv_m.png",TD.TV
-
+https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/chunklist_w697931338_b478000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvNC8yMDIxIDc6MTA6MjkgUE0maGFzaF92YWx1ZT1STkZDTUlKa3ptRVZ6a0tFS2JLUHhRPT0mdmFsaWRtaW51dGVzPTM2MDAmaWQ9
 #EXTINF:-1 tvg-logo="https://images.beinsports.com/Kz2EjZV1K-H437lBNyF11pXYWVw=/670x424/smart/924692-beIN-logo-high.png" group-title="DEPORTES",BEIN SPORTS HD
 https://nono-hls-mia.akamaized.net/live/43975729_360p.m3u8?timestamp=2021-06-16T19:11:03.031Z&__guest_id=pc-gp-44384164-6347-42a4-b54a-ba0fc9fc8bd3&__location=Costa%20Rica|Provincia%20de%20San%20Jose&__country=Costa%20Rica&__cluster=aws_virginia&__platform=web&__la=es&__bm=Firefox&sfr=pc&accessToken=undefined&streamReqId=acf12cc0-cb1d-41f4-a285-f1020a8c296a
 #EXTINF:-1 tvg-logo="https://images.beinsports.com/Kz2EjZV1K-H437lBNyF11pXYWVw=/670x424/smart/924692-beIN-logo-high.png",BEIN SPORTS
