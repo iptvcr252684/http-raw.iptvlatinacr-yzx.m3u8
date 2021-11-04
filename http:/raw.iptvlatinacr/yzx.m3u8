@@ -559,7 +559,7 @@ https://spt-competencias-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU", SONY NOVELAS
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4kfVS5vE0_4/maxresdefault.jpg", MC HD
-
+http://tecnotv.club/ha31/smartv.php?c=mc
 #EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/I7dHjB.png", Multicinema 
 https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.canaldhe.com/wp-content/uploads/2021/03/7-1.png",DHE HD
@@ -1710,11 +1710,13 @@ http://node-07.zeno.fm/41p4wfy92mruv?rj-ttl=5&rj-tok=AAABb_OjdSoAhnyPPAJwfq9-Ig
 http://servicompcr.net:9998/stream
 #EXTINF:-1 tvg-logo="https://radiocostarica.org/sites/default/files/styles/116_x_116/public/radio/logos/logo-radio-fides.png?itok=quZWS2wi",RADIO FIDES
 http://68.235.56.131:8023/;*.mp3
+#EXTINF:-1 tvg-logo="https://www.radiosinai.org/wp-content/uploads/2016/07/radioSinaiLogo-1.png",RADIO SINAI 103.9 FM
+http://ns520300.ip-198-27-68.net:8785/stream/1/
 #EXTINF:-1 tvg-logo="https://ws.shoutcast.com/images/contacts/9/92a9/92a958a8-e3d0-4bcb-b413-4fa01cc82316/radios/a013456b-04d3-4b76-a9a4-13069efa789f/a013456b-04d3-4b76-a9a4-13069efa789f.png",RADIO RINCON CATOLICA FM 
 http://201.199.89.173:8001/
 #EXTINF:-1 tvg-logo="https://ws.shoutcast.com/images/contacts/9/92a9/92a958a8-e3d0-4bcb-b413-4fa01cc82316/radios/a013456b-04d3-4b76-a9a4-13069efa789f/a013456b-04d3-4b76-a9a4-13069efa789f.png",RADIO RINCON CATOLICA FM 
 http://201.199.89.173:8001/index .hemlock?sid=1
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSETrLG-vi98o5tPu-ABjNPsabclrfnbBHCLTBpj796Ns-iNrAG",RADIO SANTA CLARA CR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSETrLG-vi98o5tPu-ABjNPsabclrfnbBHCLTBpj796Ns-iNrAG",RADIO SANTA CLARA 
 http://radios.rarserver.net:8162/live
 #EXTINF:-1 tvg-logo="http://static-1.ivoox.com/radios/5/3/9/3/6631432913935_XXL.jpg",Radio María 100.7 FM
 http://dreamsiteradiocp2.com:8044/;stream/1
