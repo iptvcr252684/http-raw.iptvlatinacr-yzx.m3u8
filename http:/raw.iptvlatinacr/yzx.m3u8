@@ -1315,17 +1315,17 @@ http://163.172.39.215:25461/line/C4@!a3a1@!w72A/54
 #EXTINF:-1 tvg-logo="http://blog.lenodal.com/uploads/rtl9-logo2011.png",RTL.9
 http://ott-iptv.info:2016/Daniel/Daniel/53
 #EXTINF:-1 tvg-logo="https://cdn.woopic.com/v1/AUTH_9ffb653181284b0abe5e45d7014095b2/boutique-tv/cine+club_1440@1x_5e3a97aafecc735523ddeec8.png", CINE+ CLUB
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45240
-#EXTINF:-1 tvg-logo="http://tv0800.xyz/wp-content/uploads/2020/09/tvmanchete.png",TV Manchete
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BysZBlK2G5o/XtbFWt8jSbI/AAAAAAAAC5M/_A_0m2y1Oo8WkJT8J5DdveOjLPRoBM_SgCPcBGAYYCw/s0/Screenshot_2020-06-02-18-28-37.png",TV Manchete
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w454365337.m3u8
 #EXTINF:-1 tvg-logo="https://latelegratis.com/logos/movistaraccion.png", ACCION
-http://krajnatv.com:8080/johnseven/skypeuser/11
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThQuvZBfMMO2RRjwq9zeVFoKHLPoDWUPbx-eVSFolvTJHX1qEB1ZH37nohR78SWmOv7zk&usqp=CAU",CINESTAR ACTION TV (SLO)
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/AXN_White_logo_%282015%29.svg/440px-AXN_White_logo_%282015%29.svg.png",AXN White 
 http://zemlja.eu:25461/gladio3356/mpEne8Fot5/3862
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMiRGEyh4ye2fV9AMa_rFeZd-DXVjMQdDglC833Mm0zYuuuLTELE-rHi-eaFrXgKgZ-kg&usqp=CAU",CINE STAR*TV1
-http://krajnatv.com:8080/johnseven/skypeuser/25443
+
 #EXTINF:-1 tvg-logo="https://www.tivitrend.com/upload/2018-10/FOX_TV_Yc_YapYmlar-1539772539.jpg",FOX
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/eb/Ani_%282015%2C_%D0%BE%D0%B1%D0%BB%D0%B0%D0%BA%D0%BE%29.png/revision/latest/scale-to-width-down/250?cb=20150806121122&path-prefix=ru",ANI
@@ -1744,7 +1744,7 @@ http://198.178.123.2:7274/;stream/1
 http://node-05.strongradiohost.com/6h44c4as8f5tv?rj-ttl=5&rj-token=AAABZYQTIDk4Sb0BuZ-KM0q5dnh_iOoi91IyhOSI3iZAu6h9nv0pFw
 #EXTINF:-1 tvg-logo="https://cdn.webrad.io/images/logos/jamaicaradio-net/culture-mixx-radio.png",Culture Mixx Radio JAMAYCA
 http://edge.mixlr.com/channel/euckm
-#EXTINF:-1 tvg-logo="https://dl1.cbsistatic.com/i/2018/11/11/d0eb4663-b088-42ff-92fc-d1fdf8d6258b/bf891a6f49ef212ac5500b7a6e983407/imgingest-188818632820312480.png",Jam Rock One Radio
+#EXTINF:-1 tvg-logo="https://liveonlineradio.net/wp-content/uploads/2015/04/Jam-Rock-One.jpg",Jam Rock One Radio
 http://jroradio.com:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://d2iw5las1rjvep.cloudfront.net/rfm/uploads/rlogo/300/300_1516234880.jpg",Radio PONdENDS JAM
 http://198.178.123.20:7000/stream/1/
@@ -1919,7 +1919,7 @@ http://74.208.135.126:25461/live/494685792/494685792/2151.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/30/94/9f/30949f70bcca0fd475a8015001065755.png",DIRECTV SPORT 2 HD
 http://latinoamericatv.vip:8080/fede/fede123/61
-#EXTINF:-1 tv-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNP2TywZw15cm0TpHXPokibRElkmuLcU3pzg&usqp=CAU",SPORTV.2
+#EXTINF:-1 tv-logo="https://img.sport-tv-guide.live/images/tv-station-pt-sport-tv-2-451.png",SPORTV.2
 http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8T
 #EXTINF:-1 tvg-logo="https://statics-files.tycsports.com/frontend/tycsportsplay/img/site_image.jpg",TYC SPORTS PLAY
 https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8
