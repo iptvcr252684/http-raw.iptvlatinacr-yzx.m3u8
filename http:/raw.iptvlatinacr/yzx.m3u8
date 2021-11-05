@@ -29,9 +29,9 @@ https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunkli
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_6.png",CANAL 6 
 https://ok.ru/video/2485413879514
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_4.png",CANAL 4 HD
-https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b698000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM2MDc1OTc3LCJzZXNzaW9uIjoiMjAxLjE5MS4xOTUuMjE3Iiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMTk1LjIxNyJdfSwic2lnbmF0dXJlIjoiNmQ0NzQ3M2Q1MWNlMTdiMWY4YzkxMjkzYTQ5OGEzODZkOTQ3ZDZiMyJ9
+https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM2MTU5NTExLCJzZXNzaW9uIjoiMjAxLjE5MS4xOTUuMTI5Iiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMTk1LjEyOSJdfSwic2lnbmF0dXJlIjoiYzgwZGI2YjAwMTY1NjUxNzIxYjRlMGMxMjNkYTQwNDc1NDBjMjMyZSJ9
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11.png",CANAL 11 HD
-https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM2MDc1ODQ5LCJzZXNzaW9uIjoiMjAxLjE5MS4xOTUuMjE3Iiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMTk1LjIxNyJdfSwic2lnbmF0dXJlIjoiMjM2NTE0MzczZGNjNjNiMjYwZjUwY2NhZTkwOWJiMDM4NmU5OTliYSJ9
+https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM2MTU5MzA4LCJzZXNzaW9uIjoiMjAxLjE5MS4xOTUuMTI5Iiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMTk1LjEyOSJdfSwic2lnbmF0dXJlIjoiMDRhYzU3NWVlOWEyZTNiYTNkYjMxMzQ2ZGYxYzYwMzY2ZmY4MWM4ZiJ9
 #EXTINF:-1 tvg-logo="https://static3.teletica.com//Files/Sizes/2017/10/13/logo-teletica-640132500_380x260.jpg",CANAL 7 HD
 https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO54L0oIFmzzgQpzV4tLWQ8qw)/dm/3/x29e3wg/s/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EUfEK1JXsAERQ_3.jpg",CANAL 7 HD 
@@ -44,7 +44,7 @@ http://201.201.149.86:8080/livestream/stream.m3u8
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1653213454.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ-pLqFOvp-6R_dr9whF_Q5IBLtvtRcMjOY2xmROz5zFlIu7Y88Q&s",CANAL 9 TV SUR HD
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
-#EXTINF:-1 tvg-logo="http://mastelevisioncr.com/wp-content/uploads/2020/08/WhatsApp-Image-2020-08-02-at-12.42.47-300x300.jpeg",TELE SISTEMA CANAL 9 HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/o1H0pIR9jFY/sddefault.jpg",TELE SISTEMA CANAL 9 HD
 http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w209792194.m3u8
 #EXTINF:-1 tvg-logo="http://costaricatelevision.com/sites/default/files/styles/tv_list/public/2020-02/TeleSUR-Costa%2520Rica.png?itok=_XGPSrGY",TELESUR HD
 https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w1535730648.m3u8
