@@ -353,7 +353,7 @@ http://54.39.16.47:25461/live/534871445/534871445/20007.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBImyfiXK1eEyhfMws20HDX-aZmtpx5Kzeag&usqp=CAU",Senal Colombia 
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-logo="https://www.las2orillas.co/wp-content/uploads/2017/07/uno--780x514.jpg",Canal Uno HD
-https://us-b5-p-e-wo1.cdn.mdstrm.com/live-stream/5a5e1c2568b1910913db5fe2/publish/media_400.m3u8?aid=5a1dafd63910b04010338038&uid=r4biBdaJRYbU1gecH49Uy0tBndQtmQmo&sid=PiAGgKwG7MTw9Ph9MauCzw05veaWQjdy&pid=MSkBIylxURzoE3U1vt6Q0h9pmJsG6Fxy&ref=https%3A%2F%2Fcanal1.com.co%2F&without_cookies=false&dnt=true&es=us-b5-p-e-wo1.cdn.mdstrm.com&ote=1634882498355&ot=aA--r2Zifhcym5O4Mi1uig&proto=https&pz=us
+https://us-b5-p-e-kj2.cdn.mdstrm.com/live-stream/5a5e1c2568b1910913db5fe2/publish/media_400.m3u8?aid=5a1dafd63910b04010338038&uid=fw39bchbMReRuOEArqZvmF3t7I3DqlHa&sid=GiunPHjsfGZvsXyMkDPDXv8DM2EMcGs1&pid=cW03Ga9qxM1K5Va9fPkYb7ocJIbi24wN&ref=https%3A%2F%2Fcanal1.com.co%2F&without_cookies=false&dnt=true&es=us-b5-p-e-kj2.cdn.mdstrm.com&ote=1636163725767&ot=vwDftRNnbdjA_mJGpMZgiQ&proto=https&pz=us
 #EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/canal-2-1725.jpg", CANAL.2 HD
 https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
 #EXTINF:-1 tvg-logo="http://canalcalitv.com/wp-content/uploads/2015/11/Logo_CaliTV.png" group-title="ENTRETENIMIENTO",Cali TV (Colombia)
@@ -451,7 +451,7 @@ http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/4936
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a1560.png", GALAVISION TV 
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/4999
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/HlGLCzpZXvN0hFygdY1TB8L2ID8u9A496IOT4ftY9sXmwtPcVuUe-fQ8OuJCBitMChlJpRCtLCUJUb37Msg=w70-h71",TLN NOVELAS HD
-
+http://tecnotv.club/nov4/smartv.php?c=tlnovelas&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/HlGLCzpZXvN0hFygdY1TB8L2ID8u9A496IOT4ftY9sXmwtPcVuUe-fQ8OuJCBitMChlJpRCtLCUJUb37Msg=w70-h71",TLN NOVELAS
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/5023
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/HlGLCzpZXvN0hFygdY1TB8L2ID8u9A496IOT4ftY9sXmwtPcVuUe-fQ8OuJCBitMChlJpRCtLCUJUb37Msg=w70-h71",TLN NOVELAS
@@ -506,8 +506,6 @@ https://qlobbidev.s.llnwi.net/bpk-tv/AZMUNDO/hls/index.m3u8
 http://regioplay.xyz/php/SR_REGIO_720112_/regio22d.php?c=unicable&k=SrRegio&f=.m3u8
 #EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE 
 http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/5027
-#EXTINF:-1 tvg-logo="https://startvmexico.com/wp-content/uploads/2018/10/unicable_3.png",UNICABLE HD
-http://sozare.com:80/75256546F59C/FCF08F088F4D/30678
 
 
 #EXTINF:-1 tvg-logo="https://image.slidesharecdn.com/canalesdetvenmexico-131025225602-phpapp02/95/canales-de-tv-en-mxico-1-638.jpg?cb=1382742177",CANALES CINE.TV
@@ -559,7 +557,7 @@ https://spt-competencias-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTcxPF9UjPuq9aipQifmfHGTgTObTvXJi4G6w&usqp=CAU", SONY NOVELAS
 https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4kfVS5vE0_4/maxresdefault.jpg", MC HD
-http://tecnotv.club/ha31/smartv.php?c=mc
+http://tecnotv.club/nov4/smartv.php?c=mc&k=tecno&f=.m3u8
 #EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/I7dHjB.png", Multicinema 
 https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.canaldhe.com/wp-content/uploads/2021/03/7-1.png",DHE HD
@@ -612,9 +610,9 @@ http://secretv.io:8080/Fabioeau2/W9aTIYBCPW/5020
 http://dream4k.co:2082/mminass770399/alvrdbib3s/90394
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71r6Sr1rCwL.png",TBS HD
 http://new.dtv21.org:2082/ritv5_352055/qcN9LZNZ/29418
-#EXTINF:-1 tvg-logo="https://bit.ly/39NSP8A",TNT FULL.HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/IflvnR2PcSaor7NxVrFqX_CnGRMMYj9IapgkDgisxIUR0MvgJ-kmFytsZ0pYaaN-MgZ_8qs=s109",TNT FULL.HD
 http://dream4k.co:2082/mminass770399/alvrdbib3s/90399
-#EXTINF:-1 tvg-logo="https://bit.ly/39NSP8A",TNT FULL.HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/IflvnR2PcSaor7NxVrFqX_CnGRMMYj9IapgkDgisxIUR0MvgJ-kmFytsZ0pYaaN-MgZ_8qs=s109",TNT 
 http://dream4k.co:2082/mminass770399/alvrdbib3s/90399
 #EXTINF:-1 tvg-logo="https://comteco.com.bo/img/upload/canales/tnt-series.png",TNT SERIES HD
 http://dream4k.co:2082/mminass770399/alvrdbib3s/90400
@@ -732,7 +730,7 @@ http://185.66.143.240:25461/live/franky/franky/927.m3u8
 http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/17257
 #EXTINF:-1 tvg-logo="https://wtcks.com/images/channels/logos/hbocomedy.png", HBO COMIDI
 http://185.66.143.240:25461/live/franky/franky/235.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/ByzRbw3K6ApBplk9QBr76eRAbl5LWJ0eVhmgxGV_ytVP-CxN9c98FnxPNBOVH8R4SvAz=s129",MAX HD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/sClFCdRKiJL4y_Ul2MfEnDjwpaRYJ6xoKUXQsiR-WKksgPv6lOiXlnneubkjlkpYD4KXlzI=s129",MAX HD
 http://us.bestvideostreaming.is/8882/playlist.m3u8
 
 
