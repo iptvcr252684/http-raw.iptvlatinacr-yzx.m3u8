@@ -102,6 +102,8 @@ https://5bf8041cb3fed.streamlock.net/VisionAmericaTV/VisionAmericaTV/chunklist_w
 https://59ef525c24caa.streamlock.net/HBTV/HBTV/chunklist_w1522485524.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjlUzJnkRlsiLAGKcV8PRQru3s1j-MSUftsqVTbTQ=s900-c-k-c0x00ffffff-no-rj",TICAVISION CANAL 54
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/379d8ce5893c94a972cd1ec9f5a13149.png",TELE CLASICOS
+https://tvdatta.com:3484/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/telemascr.com/wp-content/uploads/2020/10/LOGO-WEB.png?fit=277%2C149&ssl=1",SAN RAFAEL.TV HD LINE
 https://cp.sradiotv.com:1936/8064/8064/chunklist_w642039581.m3u8
 #EXTINF:-1 tvg-logo="http://costaricatelevision.com/sites/default/files/2021-02/los-santos-tv-costa-rica.png",LOS SANTOS.TV
@@ -333,11 +335,11 @@ https://live.canalantigua.tv/CanalAntigua/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://canalantigua.tv/wp-content/uploads/2020/12/cropped-cropped-544-x-180-logo-300x99-1.png", CANAL ANTIGUA
 https://5ef74a4cbddfc.streamlock.net/CanalAntigua/myStream/chunklist_w152479200.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/3_de_guatemala_el_super_canal-mediano.png", SUPER CANAL 3 HD
-
+https://gt-chapintv-canal3-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM2MjUyMDgzLCJzZXNzaW9uIjoiMjAxLjE5MS4xOTUuMjE1Iiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMTk1LjIxNSJdfSwic2lnbmF0dXJlIjoiMGNhYjY4ZDRiMjMzZGQ0MmQ2MTkxODM2YTIyZDQ0YTUzYzU5ZDc1ZiJ9
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/3_de_guatemala_el_super_canal-mediano.png", SUPER CANAL 3 
 http://201.220.141.118:8000/play/a0ct/index.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-O8tIcZwzteM/XA_yqIWnLjI/AAAAAAAAAyA/PvbI53JhvoYc2jYoW8jfO1iGBVpP_F5zwCPcBGAYYCw/s200/Televisiete-guatemala.jpg",TELEVISIETE 7 HD
-https://gt-chapintv-canal7-live.ned.media/chapintv/smil:canal7.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM1ODgyMTU5LCJzZXNzaW9uIjoiMjAxLjIwMS4yMTUuNzMiLCJ3aGl0ZWxpc3QiOlsiMjAxLjIwMS4yMTUuNzMiXX0sInNpZ25hdHVyZSI6IjBlYzgzZjUzYjVlZDNmYzllM2UwNDhlODc2ZTQ0OTdiMTU3YjY0YmUifQ%3D%3D
+
 #EXTINF:-1 tvg-logo="http://heroesanini.brainingbrands.com/themes/anini/img/founders/canal11.png",CANAL ONCE 
 http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/10443
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmzUR7WIiOIsD7E3qS30sTr6-US2LBWcVD4A&usqp=CAU",TELE DOCE 12 HD
@@ -834,7 +836,7 @@ http://ecuastream.net:1935/UCSGHQ/UCSGHQ/chunklist_w1030260942.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Bolivia.svg/320px-Flag_of_Bolivia.svg.png", BOLIVIA
 http://1235.19.="128.132
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/987331113831018496/qQEsqWcs_400x400.jpg", BOLIVISION HD
-https://bo-bolivision-lapaz-live.ned.media/vid_360p.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM1Mzg5NTAyLCJzZXNzaW9uIjoiMjAxLjE5MS4yNTQuMTgxIiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMjU0LjE4MSJdfSwic2lnbmF0dXJlIjoiYjlhMTUwZmE1ZTc1MjMwOGEwOTRkMjIwYWFjYTE2MjJhMWRjMzFiMiJ9
+https://bo-bolivision-lapaz-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM2MjUxOTI3LCJzZXNzaW9uIjoiMjAxLjE5MS4xOTUuMjE1Iiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMTk1LjIxNSJdfSwic2lnbmF0dXJlIjoiZDk3NWZjMWQwMzdmZDRlZjA2NzM2NmRjYjU2NzQ1ODE1OGI2ZGY5NiJ9
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/987331113831018496/qQEsqWcs_400x400.jpg", BOLIVISION 
 http://l3d.us:8080/MENDOZAEEUU12/mJp8eMqJB9/188389
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfBYg2c0kc8L6E7FEM6C-bh3lt8pg6cQdy751qt5pCliFBimidp-piMDMPZqXB1_vnAAk&usqp=CAU",TV LATINA CANAL 42 HD
@@ -1060,7 +1062,7 @@ http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8?Playlist
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-a2yVA8RwFQI/YBNnpfTnNeI/AAAAAAAAawc/bm1wV0fMvf4HVtQO9fl7aOItN7nhwv0hwCPcBGAsYHg/s71/tvn.PNG", TVN 
 http://89.105.194.59:25461/live/clsp100$/clsp100$/158.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sOXixjIB3Nw/YBNnpTvemAI/AAAAAAAAawc/tYWTRueaZHYttAQdsp2NwESG2vZHS02uwCPcBGAsYHg/s71/mega-chile.PNG",MEGA HD
-http://live.detodotvplay.com:8080/NouslO9373efj5/jsdiusu987kepPytg/96
+https://pantera1-100GB-cl-movistar.dps.live/mega/mega.smil/mega/livestream0/chunks.m3u8?nimblesessionid=47386854&WebM3UCL
 #EXTINF:-1 tvg-logo="https://serenotv.com/wp-content/uploads/2020/09/Canal-ltv-vivo.jpg",LTV Canal
 https://medios.sirtel.cl/live/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/816676363075809281/46BvFpRc_400x400.jpg",CANAL 21 TELEVISION
