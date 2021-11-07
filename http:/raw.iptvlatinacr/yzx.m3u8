@@ -25,13 +25,13 @@ https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1776239726.m3
 
 
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_6.png",CANAL 6 HD
-https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b348000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM2MjIyMzYwLCJzZXNzaW9uIjoiMjAxLjE5MS4xOTUuMTI5Iiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMTk1LjEyOSJdfSwic2lnbmF0dXJlIjoiYzcxNWUyZTgyMmVjNTAyZWIxMTM4NWEzYzJhM2Y3OGE5OWFkNDg2MSJ9
+https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b348000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM2MzMyOTM5LCJzZXNzaW9uIjoiMjAxLjE5MS4xOTUuMjQ1Iiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMTk1LjI0NSJdfSwic2lnbmF0dXJlIjoiYzllODVhMDcwOWRmMTA1ZTgzMzBiZjdmZjRlNjc3MTdmMDhmMjA5MiJ9
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_6.png",CANAL 6 
 https://ok.ru/video/2485413879514
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_4.png",CANAL 4 HD
-https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM2MTU5NTExLCJzZXNzaW9uIjoiMjAxLjE5MS4xOTUuMTI5Iiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMTk1LjEyOSJdfSwic2lnbmF0dXJlIjoiYzgwZGI2YjAwMTY1NjUxNzIxYjRlMGMxMjNkYTQwNDc1NDBjMjMyZSJ9
+
 #EXTINF:-1 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11.png",CANAL 11 HD
-https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM2MTU5MzA4LCJzZXNzaW9uIjoiMjAxLjE5MS4xOTUuMTI5Iiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMTk1LjEyOSJdfSwic2lnbmF0dXJlIjoiMDRhYzU3NWVlOWEyZTNiYTNkYjMxMzQ2ZGYxYzYwMzY2ZmY4MWM4ZiJ9
+https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b348000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM2MzMyOTM5LCJzZXNzaW9uIjoiMjAxLjE5MS4xOTUuMjQ1Iiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMTk1LjI0NSJdfSwic2lnbmF0dXJlIjoiYzllODVhMDcwOWRmMTA1ZTgzMzBiZjdmZjRlNjc3MTdmMDhmMjA5MiJ9
 #EXTINF:-1 tvg-logo="https://static3.teletica.com//Files/Sizes/2017/10/13/logo-teletica-640132500_380x260.jpg",CANAL 7 HD
 https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO54L0oIFmzzgQpzV4tLWQ8qw)/dm/3/x29e3wg/s/live-0.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EUfEK1JXsAERQ_3.jpg",CANAL 7 HD 
@@ -149,7 +149,7 @@ http://190.0.226.17:1935/Telefides/livestream/chunklist_w2086801578.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/2/2c/EJTV.png/revision/latest?cb=20160715153643.png" group-title="RELIGION",EJTV
 http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Extra_TV_42.svg/2000px-Logo_Extra_TV_42.svg.png", Extra TV 42 HD
-https://stream-04.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm47-FwQFtkeEAp870TeMWScU)/dm/3/x83sd3v/s/live-2.m3u8
+https://stream-04.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm45eAGk1OKxTHRJr96QytPLY)/dm/3/x83sd3v/s/live-2.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Extra_TV_42.svg/2000px-Logo_Extra_TV_42.svg.png", Extra TV 42
 http://k4.usastreams.com:1935/canal42/canal42/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvsantacruzcr.net/img/logotvsc.png",SANTA CRUZTV 
