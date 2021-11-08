@@ -2,7 +2,7 @@
 #http-raw.iptvlatinacr-yzx.m3u8
 #EXTINF:-1 tvg-logo="https://pastebin.com/cache/img/15/3/14/6963405.jpg",IPTV LATINA CR CHANNEL
 http://oklivetv.com/xplay/error/offline.mp4
-#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",07.11.2021
+#EXTINF:0 tvg-logo="https://i.stack.imgur.com/DGRWH.png",08.11.2021
 https://green-dns4.com/video_visit/CostaRica_Anthem_FINAL%20(450x253).mp4 www.iptvlatinacr.club.channel.andraid.m3u8
 #EXTINF:0 tvg-logo="https://listasparawiseplay.com/wp-content/uploads/2149-m3u-image.jpg",LISTA M3U
 https://www.youtube.com/watch?v=Bob84Q6NZJ8
@@ -267,7 +267,7 @@ http://dream4k.co:2082/mminass770399/alvrdbib3s/282034
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Canal_12_El_Salvador_2018.png/806px-Canal_12_El_Salvador_2018.png",Canal 12 
 http://d1clhs11e3tzzj.cloudfront.net/sv/smil:canal12.smil/chunklist_b981072.m3u8 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHKRru601PqvE80s_Rb0wt7gCS8ciy5ZoEqQ&usqp=CAU",CANAL TVX 
-https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CrMFisb3Gul_f2Q4taKXU331yQlxktVskc_dxidjzXEZ2ySzRVmTYVy-MqqB4w2hkP5bs54KAgD9qIG65eWUfJ9ZVRuwZQ_9Od-_xogZ2AM7BeyPFVATS8VZwiWjqXyJSGDbzqSR7WxU3XTjt9csmjy9NgfR12S6SGqJ3nln9RM4ms3Q3c4pADH_10Fo3A3lbvpi81avWMV_DAo41D2qpMqn1zc4F4P0qz0LtMLFOvh7vIGnHGSQB9Pzj5XHGRgSnVAD7AJEFMdiS90FdD4ZA_bofeoewUfcdpr9zkJwZ07UKYYwdLnfmMs-IY0xSmULtN9_B9qn_j-9N_IzIYRKgd9YHIYgAfUmBZVU4uNqgsombp5zIjQDniHDgIrhlTsiUSUCRWHO5OQrd-9crB8_v3X-dw8TxxlbB2VeW76-w4T5kh21itZ6zsWlTaoCn-rVcu875iPBrSIhL5I1uMSy5WPfs2X1JOw2TCR_aQOcXFESwYB9Z8T4BqcJ9AQU2RiGsPMw5zjxLrG4JJTG8zvf-uPFv8MAUZrwiKumGuk3FZq8wwsXKeLbgSosS9G7nnPYZoTneBLzVYgDZa-QkRO27Qt_98WfTHgqRFtM6w-TQFCwCkmWlOomRaBAzBwMqyxNTjU0gGPyFeAxJp4q9ZH_mqAtUX6WzeALjaf4lINCh6Qk6OUmPNUXX_HLvaCONfj1f1_YDhi010IFNUl4K-KEj2dod24EM4sCO98LAUN9FiUC9Ub-VLHxNIX3sOvH63AARTof56nOLTC1iJycjegOOVsrwBYeRl-Gy0mbdGCLbuKydlSAvKjj95560SNM-J_oWcq7XrBbEmNbyvINPxsIqL6f6GWVwlEFKwbc1lYqbWCeBXQ8HkfsluxNtwrjbOqqBo5LlUv9UzziV5UOIz4lkxsyu7FsHRoMussaerSxubUb5F3sIAEqCXVzLWVhc3QtMjCfAg.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHKRru601PqvE80s_Rb0wt7gCS8ciy5ZoEqQ&usqp=CAU",CANAL TVX 
 http://cdn.elsalvadordigital.com:1935/canal23/canal23/chunklist_w1682980534.m3u8
 #EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/_PA68cewAaDE/SrL9JZsSKOI/AAAAAAAAAO4/y7ALTlrRpoE/s320/TVO.jpg", TVO CANAL 23 HD
@@ -293,7 +293,7 @@ http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/u7AZ_zoeri2BgOaGK6d-VhMb7fsOc-a7yRqooAv8_WEdj-jZpp2A3iw-7rJWB2R1aw=s180",~ Honduras TV
 http://www.lengua.com/anthems/Honduras.mp3 
 #EXTINF:-0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnUxKmN84LyQun25JjSvzcqwFw3gcO8c3xRuKRlYeVJkUubVkLzo3Dei84vXF0qAMMFJw&usqp=CAU",VTV
-https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM2MjUwMzI3LCJzZXNzaW9uIjoiMjAxLjE5MS4xOTUuMjE1Iiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMTk1LjIxNSJdfSwic2lnbmF0dXJlIjoiZTIxNWJmMTdhNjhiYWI2YWJiNjM1ZWUxNGQyZjc4Y2Y4ZTIwZDJjYyJ9
+https://hn-vtv-vtv-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM2NDQyMDUxLCJzZXNzaW9uIjoiMjAxLjE5MS4xOTUuMTQyIiwid2hpdGVsaXN0IjpbIjIwMS4xOTEuMTk1LjE0MiJdfSwic2lnbmF0dXJlIjoiYTAyOWZkMTliNTYzMjc3YjkyYWI2ZGVlNjc1N2YyYzhhZmVhMGE1MyJ9
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHhijPKZhPAeOpV0plYczgzsl-QB1v4T3wfhFlAsRrJvE2lj81r4KjNviOw5NiNNDYuAw&usqp=CAU",LTV.HD
 https://5e85d90130e77.streamlock.net/6022/6022/chunklist_w113526813.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TgSeikY.png" group-title="HONDURAS", TEN 10 hD
